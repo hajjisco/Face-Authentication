@@ -13,7 +13,7 @@
     </div>
     <div class="mt-[60px] text-white flex flex-row justify-between wod1">
       <div>
-        <p class="text-2xl text-white mt-10 w-[400px] leading-10">
+        <p class="text-2xl text-white mt-10 w-[400px] leading-10 wod1">
           A web based facial recognition app that authenticates a registered
           user
         </p>
