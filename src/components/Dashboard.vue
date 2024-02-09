@@ -401,7 +401,7 @@
   .jcc {
     justify-content: center;
     width: 90vw;
-    margin-right: 19px;
+    margin-right: 20px;
   }
   /* .mmt{
     top: -60px;
