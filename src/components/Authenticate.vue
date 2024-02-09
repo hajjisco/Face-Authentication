@@ -104,8 +104,7 @@ export default {
           if (window.location.href.includes("localhost")) {
             window.location.href = "http://localhost:5173/Dashboard";
           } else {
-            window.location.href =
-              "https://vercel.com/abdulazeez-abdulazeezs-projects/Dashboard";
+            window.location.href = "/Dashboard";
           }
           //router.push({ name: "Dashboard" });
         })
