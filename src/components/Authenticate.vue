@@ -11,7 +11,7 @@
         <img src="@/assets/images/logo.webp" alt="" class="h-[150px]" />
       </div>
     </div>
-    <div class="mt-[60px] text-white flex flex-row justify-between wod">
+    <div class="mt-[60px] text-white flex flex-row justify-between wod1">
       <div>
         <p class="text-2xl text-white mt-10 w-[400px] leading-10">
           A web based facial recognition app that authenticates a registered
@@ -53,7 +53,7 @@
     padding: 10px;
     overflow-x: hidden;
   }
-  .wod {
+  .wod1 {
     display: none;
   }
 }
